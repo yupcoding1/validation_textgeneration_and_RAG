@@ -1,0 +1,16 @@
+fastapi 
+uvicorn 
+pydantic 
+transformers 
+sentence-transformers 
+langchain 
+groq 
+nltk 
+bert-score 
+rouge-score 
+beautifulsoup4 
+requests
+language-tool-python
+huggingface_hub
+langchain-groq
+dotenv
